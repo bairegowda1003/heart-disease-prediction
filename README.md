@@ -8,7 +8,7 @@ Built with **Python**, **Flask**, and **KNN (K-Nearest Neighbors)** algorithm �
 
 ## 📌 About the Project
 
-This is an end-to-end machine learning project that takes health inputs from the user through a web form and predicts whether the person is at risk of heart disease or not.
+This is an end-to-end machine learning project that takes health inputs from the user through a web form and predicts whether the person is at risk of heart disease or not
 
 The goal was to not just build a model, but to **deploy** it as a real web application that anyone can use — without needing to open a Jupyter notebook.
 
