@@ -1,6 +1,6 @@
 # 🫀 Heart Disease Prediction Web App
 
-A machine learning web application that predicts the likelihood of heart disease in a person based on health parameters such as age, gender, blood pressure, cholesterol level, and more.
+A machine learning web application that predicts the likelihood of heart disease in a person based on health parameters such as age, gender, blood pressure, cholesterol level, and more
 
 Built with **Python**, **Flask**, and **KNN (K-Nearest Neighbors)** algorithm — developed as a BCA final project by **Bairegowda**.
 
