@@ -23,7 +23,7 @@ The goal was to not just build a model, but to **deploy** it as a real web appli
 
 ---
 
-## 🧠 How It Works
+## 🧠 How It Works.
 
 1. User fills in health details on the web form
 2. Flask backend collects the inputs
