@@ -6,7 +6,7 @@ Built with **Python**, **Flask**, and **KNN (K-Nearest Neighbors)** algorithm �
 
 ---
 
-## 📌 About the Project
+## 📌 About the Project.
 
 This is an end-to-end machine learning project that takes health inputs from the user through a web form and predicts whether the person is at risk of heart disease or not.
 
