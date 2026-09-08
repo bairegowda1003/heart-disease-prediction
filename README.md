@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction Web App
+# 🫀 Heart Disease Prediction Web App.
 
 A machine learning web application that predicts the likelihood of heart disease in a person based on health parameters such as age, gender, blood pressure, cholesterol level, and more.
 
